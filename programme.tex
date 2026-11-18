@@ -1,0 +1,103 @@
+%! TEX program = lualatex
+\documentclass[landscape, a4paper]{programme}
+\usepackage[base]{babel}
+\usepackage{lipsum}
+\usepackage{graphicx}
+
+% \ensemble{Orchestre du Collège Néerlandais}
+\concerttitle{Shall We Dance?}
+\concertsubtitle{Des danses baroques aux musiques du cinéma\\ un voyage musical sans frontières}
+\concertdate{13 Decembre 2026, 20:00 }
+\venue{Grand Salon}
+\notice{Please silence all mobile devices before the performance}
+
+\contact{@ocn.officiel \hfill }
+
+\coverlogo{\logo[3cm]{images/ocn-full.pdf}}
+\coversponsors{\logo[1.5cm]{images/college-neerlandais.png}}
+% \backsponsors{
+%   \logo[0.75cm]{images/CIUP.png}\qquad
+%   \logo[0.75cm]{images/CIUP.png}\qquad
+% }
+
+\begin{document}
+
+\begin{twopanel}
+    \begin{backcover}
+        \photo[.8\linewidth][0cm 0cm 0cm 10cm]{images/OCN-foto.jpg}
+        \section*{Biographies}
+        \bio{Henri}{\lipsum[1]}
+        \bio{Orchestre du Collège Néerlandais}{\lipsum[3]}
+    \end{backcover}
+\nextpanel*
+  \makecover
+\end{twopanel}
+
+\newpage
+
+\begin{twopanel}
+  \makeheader
+
+  \piece[11']{Luigi Boccherini (1743 -- 1805)}{Quintet No. 4 in D major, G. 448,
+  ``Fandango''}
+  \begin{movements}
+    \mvt{I. Pastorale}
+    \mvt{II. Allegro Maestoso}
+    \mvt{IV. Fandango}
+  \end{movements}
+
+
+  \piece[12']{Johann Strauss II (1825 -- 1899)}{Kaiser-Walzer, Op. 437}
+  \arrangedby{Arranged for flute, clarinet, piano and string quartet by Arnold
+  Schönberg (1925)}
+
+  \intermission[Intermission]
+
+  \piece[5']{Henry Purcell (1659 -- 1695)}{Suite from Abdelazer, Z. 570}
+  \begin{movements}
+      \mvt{II. Rondeau}
+      \mvt{V. Minuet}
+      \mvt{VI. Air}
+  \end{movements}
+
+  \piece[10']{Edvard Grieg (1843 -- 1907)}{Holberg Suite, Op. 40}
+  \begin{movements}
+      \mvt{I. Praeludium -- Allegro vivace}
+      \mvt{Air -- Andante religioso}
+  \end{movements}
+
+  \piece[4']{Ennio Morricone (1928 -- 2020) and Andrea Morricone (b.
+  1964)}{Cinema Paradiso}
+  \arrangedby{Arranged and adapted for piano and string orchestra by Adriano
+  Carrijo}
+  
+
+\vfill
+  \progrule
+  \hspace{10em}\roster{Conductor}{Yueh Heng Wu}
+  \vspace{0.25em}
+  \begin{minipage}{.48\linewidth}
+  \roster{Violins}{Giulia Di Donato*, Jaime García-Añoveros*, Noa Lou
+  Brawermann, Ceyda Gülcan, May Lutyens-Humfrey, Inès Nuckchady, Lotta Luise Wunderlich}
+  \roster{Violas}{Itamar Bar*, Osea Fracchia}
+  \roster{Cellos}{Mikael Häglund*, Elsa Lubek}
+  \end{minipage}\hfill
+  \begin{minipage}{.49\linewidth}
+  \roster{Double Bass}{Maja König}
+  \roster{Flute}{Bomin Kim}
+  \roster{Clarinets}{Marie Bohl, Caroline Zouloumian}
+  \roster{Guitars}{Kavana Kiran, Hasti Mehraei, Pol Tibau Rubau}
+  \roster{Piano}{\L{}ucja Wroblewska}
+    \end{minipage}
+  \rosterlegend
+\nextpanel
+  \section*{Programme Notes}
+
+  \note{Boccherini --- \emph{Fandango}}{\lipsum[2]}
+  \note{Strauss II --- Kaiser-Walzer}{\lipsum[2]}
+  \note{Purcell --- Suite from Abdelazer}{\lipsum[2]}
+  \note{Grieg --- Holberg Suite}{\lipsum[2]}
+  \note{Morricone --- Cinema Paradiso}{\lipsum[2]}
+\end{twopanel}
+
+\end{document}
