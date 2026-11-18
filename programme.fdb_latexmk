@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1794965118.71752 "programme.tex" "programme.pdf" "programme" 1794965119.46828 0
+["lualatex"] 1794965202.89554 "programme.tex" "programme.pdf" "programme" 1794965203.61969 0
   "/home/oxke/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1759130374.21066 127336 b6e1b647057efb7e3c48faf6f27134cc ""
   "/home/oxke/.texlive2025/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1773681502.95276 341340 196f294d82976c29586c7f517b9b578d ""
   "/nix/store/dfr6hkf60csfrdhxan39plv6yyplxizq-texlive-2025-r78234-final-env/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5541489 bf0648c3b25d377c15ed2bd53453ff2c ""
@@ -153,9 +153,9 @@
   "images/college-neerlandais.png" 1794939976.56991 59314 c3782cf618a83b6292478ba605fa6c83 ""
   "images/instagram.pdf" 1794965062.49895 2299 b8a1c356f85465364d2232ccac8b99ba ""
   "images/ocn-full.pdf" 1794938402.36497 3801 1f93ed36e38e930798a1698ad8ff288f ""
-  "programme.aux" 1794965119.41682 32 044b7f8fc9779af7531264e0c5c84b6d "lualatex"
+  "programme.aux" 1794965203.55823 32 044b7f8fc9779af7531264e0c5c84b6d "lualatex"
   "programme.cls" 1794964679.9379 6090 7a51e8847597e86741e8608403348b8e ""
-  "programme.tex" 1794965116.91483 3104 be25e2e5b82419c9c30253df86c7bf76 ""
+  "programme.tex" 1794965201.52924 3111 71f50950fee003c2ad083cb6e79fa376 ""
   (generated)
   "programme.aux"
   "programme.log"
