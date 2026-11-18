@@ -132,6 +132,8 @@ INPUT /nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-
 INPUT /nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/tfm/adobe/helvetic/phvr8t.tfm
 INPUT /nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT ./images/instagram.pdf
+INPUT ./images/instagram.pdf
 INPUT ./images/ocn-full.pdf
 INPUT ./images/ocn-full.pdf
 INPUT /nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/tfm/adobe/palatino/pplr8t.tfm
