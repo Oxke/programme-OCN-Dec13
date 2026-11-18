@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025/nixos.org)  (format=lualatex 1980.1.1)  18 NOV 2026 02:26
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025/nixos.org)  (format=lualatex 1980.1.1)  18 NOV 2026 02:29
  restricted system commands enabled.
  file:line:error style messages enabled.
 **programme.tex
@@ -446,12 +446,12 @@ Here is how much of LuaTeX's memory you used:
  125056,662416 words of node,token memory allocated
  619 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 23 kern, 1 penalty, 1 margin_kern, 4 glyph, 18 attribute, 48 glue_spec, 18 attribute_list, 1 write nodes
-   avail lists: 1:2,2:436,3:172,4:202,5:176,6:90,7:9098,8:1,9:252,10:8,11:176
+   avail lists: 1:1,2:426,3:168,4:198,5:176,6:88,7:9052,8:1,9:248,10:8,11:174
  29008 multiletter control sequences out of 65536+600000
  92 fonts using 6021511 bytes
  73i,7n,75p,1005b,412s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/enc/dvips/base/8r.enc}</nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/type1/urw/helvetic/uhvr8a.pfb></nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/type1/urw/palatino/uplb8a.pfb></nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/type1/urw/palatino/uplbi8a.pfb></nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/type1/urw/palatino/uplr8a.pfb></nix/store/imlvqj42y6alx337nbrlybsr83qksjgn-texlive-2025-r78234-final-env-texmfdist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on programme.pdf (2 pages, 302525 bytes).
+Output written on programme.pdf (2 pages, 301900 bytes).
 
 PDF statistics: 45 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
